@@ -1,0 +1,4 @@
+# conda create imageTemplateBot
+
+python-telegram-bot
+Pillow

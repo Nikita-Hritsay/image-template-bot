@@ -1,0 +1,22 @@
+{
+  "img_path": "user_templates\\530450662\\template_first.jpg",
+  "formats": [
+    {
+      "width": 1100,
+      "height": 940,
+      "align": "center"
+    },
+    {
+      "width": 800,
+      "height": 800,
+      "align": "center"
+    },
+    {
+      "width": 950,
+      "height": 550,
+      "align": "right-bottom"
+    }
+  ],
+  "expected_count": 3,
+  "current_index": 3
+}
